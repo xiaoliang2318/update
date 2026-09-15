@@ -1,0 +1,6 @@
+[category]hook[category]
+[name]止痛药HOOK驱动[name]
+[desc]Hook 驱动 · 兼容多内核版本[desc]
+[category]dev[category]
+[name]止痛药PTE驱动[name]
+[desc]Dev 驱动 · 兼容多内核版本[desc]
