@@ -1,6 +1,14 @@
 [category]RT有缓[category]
 [name]RT有缓[name]
 [desc]读写有缓 · 硬断 · 陀螺仪[desc]
+[version]11.4[version]
+
 [category]RT无缓[category]
 [name]RT无缓[name]
 [desc]读写无缓 · 硬断 · 陀螺仪[desc]
+[version]11.4[version]
+
+[category]未更新[category]
+[name]未更新[name]
+[desc]未更新[desc]
+[version]1.0[version]
