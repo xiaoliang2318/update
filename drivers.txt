@@ -1,16 +1,19 @@
 [category]RT有缓[category]
 [name]RT有缓[name]
 [desc]读写有缓 · 硬断 · 陀螺仪[desc]
-[version]11.4[version]
-[verify]RT过验证.sh[verify]
+[version]11.5[version]
 
 [category]RT无缓[category]
 [name]RT无缓[name]
 [desc]读写无缓 · 硬断 · 陀螺仪[desc]
-[version]11.4[version]
-[verify]RT过验证.sh[verify]
+[version]11.5[version]
 
 [category]twt[category]
 [name]twt[name]
 [desc]twt驱动[desc]
+[version]1.1[version]
+
+[category]verify[category]
+[name]过验证[name]
+[desc]所有分类的过验证脚本[desc]
 [version]1.0[version]
