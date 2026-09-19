@@ -8,12 +8,12 @@
 [desc]读写无缓 · 硬断 · 陀螺仪[desc]
 [version]11.5[version]
 
-[category]twt[category]
-[name]twt[name]
-[desc]twt驱动[desc]
-[version]1.1[version]
-
 [category]verify[category]
 [name]过验证[name]
 [desc]所有分类的过验证脚本[desc]
 [version]1.0[version]
+
+[category]twt[category]
+[name]twt[name]
+[desc]twt驱动[desc]
+[version]1.1[version]
