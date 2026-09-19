@@ -2,16 +2,15 @@
 [name]RT有缓[name]
 [desc]读写有缓 · 硬断 · 陀螺仪[desc]
 [version]11.4[version]
-[verify]verify.sh[verify]
+[verify]RT过验证.sh[verify]
 
 [category]RT无缓[category]
 [name]RT无缓[name]
 [desc]读写无缓 · 硬断 · 陀螺仪[desc]
 [version]11.4[version]
-[verify]verify.sh[verify]
+[verify]RT过验证.sh[verify]
 
 [category]twt[category]
 [name]twt[name]
 [desc]twt驱动[desc]
 [version]1.0[version]
-[verify]verify.sh[verify]
