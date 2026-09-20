@@ -4,7 +4,7 @@
 [minVersion]2.0.0[minVersion]
 [forceUpdate]false[forceUpdate]
 [fileName]XLtool_v2.0.0[fileName]
-[url]https://gcore.jsdelivr.net/gh/xiaoliang2318/update@master/XLtool_v1.0.0[url]
+[url]https://gcore.jsdelivr.net/gh/xiaoliang2318/update@master/XLtool_v2.0.0[url]
 [size]<第一步拿到的字节数>[size]
 [sha256]<第一步拿到的64位hex>[sha256]
 [changelog]增加解密2[changelog]
